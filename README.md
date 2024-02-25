@@ -4,3 +4,8 @@ As the number of Arabic speakers doing business worldwide, traveling, migrating,
 
 So, tried to build a simple, effective translator
 
+
+## Streamlit UI
+
+![translation_ui](https://github.com/AmanChainpure/PDF-Text-Translator/assets/161191503/3c429db3-bfdf-4db1-b943-65f2dacabbd5)
+
